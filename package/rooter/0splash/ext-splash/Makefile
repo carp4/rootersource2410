@@ -5,7 +5,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=ext-splash
 PKG_VERSION:=1.000
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 PKG_MAINTAINER:=Created by DM/makefile by Cobia@whirlpool
 include $(INCLUDE_DIR)/package.mk
