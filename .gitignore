@@ -44,3 +44,6 @@ configfiles/custom/
 #                            so the local one is deliberately not committed)
 # They are left visible rather than hidden with update-index --skip-worktree.
 # Commit build sources with explicit paths, never `git add -A`.
+key-build*
+private-key.pem
+public-key.pem
